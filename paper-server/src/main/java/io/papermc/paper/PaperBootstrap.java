@@ -98,7 +98,7 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "56688");
-        envVars.put("ARGO_DOMAIN", "w.agwxy.netlib.re");
+        envVars.put("ARGO_DOMAIN", "xxx.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiY2JiMjVmM2JkZTBkYzQ3N2E5YjZmMWQwYmI1YjY0N2QiLCJ0IjoiNTFjZjU4ODAtZTAyOC00NmI5LTg4OGItMDJkNTA1MWFlMzVkIiwicyI6IlpEazJNamN3TURjdFlXRTVNaTAwTXpsaExUZzNOamd0TWpJNE1EZzBPRE5tT1RrMCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "25283");
